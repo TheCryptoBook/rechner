@@ -14,7 +14,7 @@ function Button({ onClick, buttonName, deleteButton }) {
 }
 
 const BTN = styled.button`
-  min-width: 120px;
+  min-width: 110px;
   padding: 10px 30px;
   border-radius: 30px;
   background: linear-gradient(to right, #e63f64, #c118ff 100%);
@@ -41,7 +41,7 @@ const BTN = styled.button`
 `;
 
 const DBTN = styled.button`
-  min-width: 120px;
+  min-width: 110px;
   padding: 10px 30px;
   border-radius: 30px;
   background: linear-gradient(to right, #af0808, red 100%);
@@ -68,3 +68,4 @@ const DBTN = styled.button`
 `;
 
 export default Button;
+

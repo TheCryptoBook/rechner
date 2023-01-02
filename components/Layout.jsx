@@ -6,7 +6,7 @@ import styles from "../styles/Home.module.css";
 
 export default function Layout({ children }) {
   return (
-    <div>
+    <div className={styles.app}>
       <Head>
         <title>Dezimal-Stunden-Rechner</title>
         <meta

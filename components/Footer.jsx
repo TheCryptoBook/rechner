@@ -15,8 +15,8 @@ export default function Footer() {
           <Image
             src="/dnlogo.png"
             alt="Logo von Danny Nothdurft"
-            width={50}
-            height={56}
+            width={25}
+            height={28}
           />
         </span>
       </a>

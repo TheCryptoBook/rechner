@@ -34,7 +34,7 @@ const Label = styled.label`
 
 const InputField = styled.input`
   font-family: inherit;
-  width: 100%;
+  width: 120px;
   border: 0;
   border-bottom: 2px solid #9b9b9b;
   outline: 0;
